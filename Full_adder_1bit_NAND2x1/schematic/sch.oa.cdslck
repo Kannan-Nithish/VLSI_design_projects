@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nkannan
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              261940
+ProcessCreationTime_UTC        1695861659
+ProcessCreationTime_Readable   Wed Sep 27 17:40:59 2023 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/08/nkannan/work_gpdk045/eelab477_new/Full_adder_1bit_NAND2x1#284#29/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Sep 27 18:20:55 2023 PDT

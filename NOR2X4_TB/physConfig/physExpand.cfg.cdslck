@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nkannan
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              128708
+ProcessCreationTime_UTC        1695220725
+ProcessCreationTime_Readable   Wed Sep 20 07:38:45 2023 PDT
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/viterbi/08/nkannan/work_gpdk045/eelab477_new/NOR2X4_TB/physConfig/physExpand.cfg
+TimeEditLocked                 Wed Sep 20 10:01:11 2023 PDT
